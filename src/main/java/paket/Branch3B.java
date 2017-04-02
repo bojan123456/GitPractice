@@ -8,4 +8,6 @@ public class Branch3B {
   //added from remote
 
     //add comment 1
+
+    //add comment 2
 }
