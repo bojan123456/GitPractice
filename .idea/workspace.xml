@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0c2c7452-858b-41ef-bad2-7e4b3cc4ea3b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/paket/Branch3B.java" afterPath="$PROJECT_DIR$/src/main/java/paket/Branch3B.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/paket/Branch2.java" afterPath="$PROJECT_DIR$/src/main/java/paket/Branch2.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -59,17 +59,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Branch2.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Branch2.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/paket/Branch2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+            <state relative-caret-position="105">
+              <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Branch3B.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Branch3B.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/paket/Branch3B.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
@@ -380,6 +380,7 @@
         <option value="$PROJECT_DIR$/src/main/java/paket/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/paket/Branch1.java" />
         <option value="$PROJECT_DIR$/src/main/java/paket/Branch3B.java" />
+        <option value="$PROJECT_DIR$/src/main/java/paket/Branch2.java" />
       </list>
     </option>
   </component>
@@ -671,7 +672,14 @@
       <option name="project" value="LOCAL" />
       <updated>1491146895434</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="mc1">
+      <created>1491146991275</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1491146991275</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -735,7 +743,8 @@
     <MESSAGE value="add comment 1" />
     <MESSAGE value="add comment 2" />
     <MESSAGE value="add comment 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="add comment 3" />
+    <MESSAGE value="mc1" />
+    <option name="LAST_COMMIT_MESSAGE" value="mc1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -812,18 +821,18 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/paket/Branch1.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/paket/Branch2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/paket/Branch3B.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/paket/Branch2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
           <folding />
         </state>
       </provider>
